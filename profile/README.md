@@ -47,18 +47,30 @@ We believe command-line tools should be:
 - **Intuitive** - Great UX isn't just for GUIs
 - **Reliable** - Rust's safety means fewer 3am debugging sessions
 
-## 📬 Get Involved
+## 🎪 Join the Party
 
 - 🌟 **Star** our repos when they drop
-- 💬 **Discussions** - Share ideas and feedback
-- 🐦 **Follow** our journey (links coming soon!)
+- 💬 **GitHub Discussions** - Share wild ideas and hot takes
+- 🎮 **Discord** - Real-time chaos and code reviews → [Join the Fellowship](https://discord.gg/rustyfellows)
+- 🐦 **Social** - Follow the madness (coming soon!)
+
+## ⚡ Quick Start (When We Launch)
+
+```bash
+# The future is one command away
+curl -sSL https://get.rustyfellows.dev | sh
+# or
+cargo install rustyfellows-cli
+```
 
 ---
 
 <div align="center">
 
-**🦀 Crafted with Rust • Built for the terminal • Made by humans who care 💛**
+**🦀 Forged in Rust • Terminal Wizardry • Zero Boring Allowed 🎭**
 
-*Stay tuned - the revolution starts soon!* ⚡
+*The terminal revolution is loading...* ████████░░ 80% ⚡
+
+[Discord](https://discord.gg/rustyfellows) • [Discussions](https://github.com/orgs/RustyFellows/discussions) • More links incoming! 🚀
 
 </div>
