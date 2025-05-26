@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/RustyFellows"> <img src="URL_TO_YOUR_RUSTYFELLOWS_LOGO.png" alt="RustyFellows Logo" width="150"/>
+  <a href="https://github.com/RustyFellows"> <img src="logo.png" alt="RustyFellows Logo" width="150"/>
   </a>
 </p>
 
