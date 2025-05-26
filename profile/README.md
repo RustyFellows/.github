@@ -54,15 +54,6 @@ We believe command-line tools should be:
 - 🎮 **Discord** - Real-time chaos and code reviews → [Join the Fellowship](https://discord.gg/rustyfellows)
 - 🐦 **Social** - Follow the madness (coming soon!)
 
-## ⚡ Quick Start (When We Launch)
-
-```bash
-# The future is one command away
-curl -sSL https://get.rustyfellows.dev | sh
-# or
-cargo install rustyfellows-cli
-```
-
 ---
 
 <div align="center">
